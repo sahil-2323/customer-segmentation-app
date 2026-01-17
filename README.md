@@ -88,3 +88,6 @@ This helps stakeholders visually understand where the customer belongs.
 Language: Python
 
 Libraries & Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
+
+### Live:
+https://je9vbd9kq2i3piyuw5jmir.streamlit.app/
